@@ -1,0 +1,6 @@
+.App {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  padding: 0 auto;
+}
